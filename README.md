@@ -23,6 +23,7 @@ Each caregiver is subsequently categorized into one of three classes: "Candidate
 - **How would you describe your level of experience with Dogs?**: Categorical Ordinal (Beginner, Intermediate, Expert)
 - **How would you describe your level of experience with Cats?**: Categorical Ordinal (Beginner, Intermediate, Expert)
 - **Services you would like to offer?**: Categorical Nominal (Boarding, Sitting, Walking)
+
 **MCQs:** 
 - **Answer1-10**: Categorical Nominal (A, B, C, D)
 
