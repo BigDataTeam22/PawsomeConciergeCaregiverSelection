@@ -18,11 +18,9 @@ Each caregiver is subsequently categorized into one of three classes: "Candidate
 
 - **Province**: Categorical Binary
 - **Birth date**: Date/Time
-- **How did you hear about PAWSOME Concierge?**: Categorical Ordinal (Website, Colleague or Friend, Search)
 - **Which companion animals are you interested in working with?**: Categorical Ordinal (Dogs, Cats, Both)
 - **How would you describe your level of experience with Dogs?**: Categorical Ordinal (Beginner, Intermediate, Expert)
 - **How would you describe your level of experience with Cats?**: Categorical Ordinal (Beginner, Intermediate, Expert)
-- **Services you would like to offer?**: Categorical Nominal (Boarding, Sitting, Walking)
 
 **MCQs:** 
 - **Answer1-10**: Categorical Nominal (A, B, C, D)
