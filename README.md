@@ -18,7 +18,6 @@ Each caregiver is subsequently categorized into one of three classes: "Candidate
 
 - **Province**: Categorical Binary
 - **Birth date**: Date/Time
-- **Which companion animals are you interested in working with?**: Categorical Ordinal (Dogs, Cats, Both)
 - **How would you describe your level of experience with Dogs?**: Categorical Ordinal (Beginner, Intermediate, Expert)
 - **How would you describe your level of experience with Cats?**: Categorical Ordinal (Beginner, Intermediate, Expert)
 
