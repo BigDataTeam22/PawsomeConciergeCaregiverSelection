@@ -22,7 +22,17 @@ Each caregiver is subsequently categorized into one of three classes: "Candidate
 - **How would you describe your level of experience with Cats?**: Categorical Ordinal (Beginner, Intermediate, Expert)
 
 **MCQs:** 
-- **Answer1-10**: Categorical Nominal (A, B, C, D)
+**Answer1-10**: Categorical Nominal (A, B, C, D)
+- fear_discomfort_management - string(100)
+- pet_discipline_approach - string(100)
+- dogwalking_tool_choice - string(100)
+- dog_reaction_management - string(100)
+- dog_reaction_resolution - string(100)
+- cat_litter_box_issue_cause - string(100)
+- cat_toy_string_chewing_prevention - string(100)
+- cat_injury_handling - string(100)
+- cat_furniture_scratching_solution - string(100)
+- puppy_curiosity_management - string(100)
 
 ## Algorithm to be used
 
